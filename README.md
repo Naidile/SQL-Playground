@@ -1,5 +1,7 @@
 # SQL-Playground
 
+SQL is used to query an Employee database.
+
 Protected by Apache License 2.0.
 
 ## Created By
